@@ -1,21 +1,21 @@
 # Amazon-Sales-Report
 PowerBi Dashboard based on Amazon sales dataset
 
-📊 Amazon Sales Dashboard
+###  📊 Amazon Sales Dashboard
 
-🔎 Project Overview :
+###  🔎 Project Overview :
 
 The Amazon Sales Dashboard is an interactive business intelligence report designed to analyze and visualize sales performance. It helps businesses track sales, profit, orders, and product distribution across regions, payment modes, and customer segments.
 
 This project enables data-driven decision-making by providing key insights such as top-performing categories, profit trends, and geo-distribution of orders.
 
-⚡ Tech Stack :
+###  ⚡ Tech Stack :
 
 Power BI – for dashboard design and interactive visualizations <br>
 DAX / Power Query – for data modeling and transformations <br>
 Excel / CSV Dataset – as the raw data source <br>
 
-📂 Data Source :
+###  📂 Data Source :
 
 The dashboard uses Amazon Sales Data from kaggle containing sales transactions, including:
 
@@ -26,7 +26,7 @@ Payment methods <br>
 Customer segments <br>
 Profit and return records <br>
 
-🚀 Features & Highlights :
+###  🚀 Features & Highlights :
 
 ✔️ KPIs at a glance: Total Sales, Profit, Orders, and Products <br> 
 ✔️ Sales Analysis: Monthly fluctuation trends (2019 vs 2020) <br>
@@ -39,7 +39,7 @@ Profit and return records <br>
 ✔️ Top 5 Profitable Sub-Categories: Copiers, Accessories, Phones, Paper, Binders <br>
 ✔️ Returns Analysis: Tracking percentage of returned orders <br>
 
-🎯 Purpose
+###  🎯 Purpose
 
 The purpose of this dashboard is to provide a comprehensive sales performance analysis for Amazon, enabling:
 
@@ -47,7 +47,7 @@ Business executives to monitor KPIs <br>
 Sales teams to identify profitable categories and regions <br>
 Analysts to explore customer behavior and shipping patterns <br>
 
-Screenshot / Demo
+###  Screenshot / Demo
 
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+Example: ![Dashboard Preview](https://github.com/Adhithya23/Amazon-Sales-Report/blob/main/Snapshot%20of%20Dashboard.png)
